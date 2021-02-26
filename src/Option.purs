@@ -37,6 +37,7 @@ module Option
   , getAll
   , getWithDefault
   , insert
+  , insertField
   , insert'
   , jsonCodec
   , jsonCodecRecord
